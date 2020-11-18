@@ -1,7 +1,12 @@
 {
   "label": ".ant-form-item-required",
   "name": "#name",
-  "gender": ".ant-radio-input",
+  "gender": ".ant-radio",
   "age": "#age",
-  "story": "#story"
+  "story": ".ant-select-selector",
+  "image": ".ant-form-item-label",
+  "create": ".ant-btn",
+  "storyClick": ".ant-select-show-arrow",
+  "storyType": ".ant-select-item-option",
+  "tryAgain": ".btn-primary"
 }
